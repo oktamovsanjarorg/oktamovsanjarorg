@@ -10,6 +10,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=oktamovsanjarorg&color=36BCF7&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <a href="https://linkedin.com/in/sanjaroktamovorg"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://t.me/sanjaroktamov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="mailto:sanjaroktamovorg@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
