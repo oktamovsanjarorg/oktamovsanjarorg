@@ -3,7 +3,7 @@
 </p>
 
 <p align="right">
-  <img src="https://komarev.com/normal-badge/?username=oktamovsanjarorg&color=36BCF7&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=oktamovsanjarorg&color=36BCF7&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
 <p align="center">
