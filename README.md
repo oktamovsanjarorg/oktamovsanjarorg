@@ -2,11 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=180&section=header&text=Sanjar%20O'ktamov&fontSize=50&theme=tokyonight" alt="Sanjar's Banner" />
 </p>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=oktamovsanjarorg&color=36BCF7&style=flat-square&label=Profile+Views" alt="Profile Views" />
+<p align="center">
+  <a href="https://github.com/oktamovsanjarorg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Engineer;Automating+Infrastructure+with+CI%2FCD;Containerization+%26+Cloud+Native+Stack;Learn%2C+build%2C+automate%2C+improve%2C+repeat." alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=oktamovsanjarorg&color=36BCF7&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <a href="https://t.me/sanjaroktamov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="mailto:sanjaroktamovorg@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -45,13 +48,28 @@ I am a dedicated **Cloud & DevOps Engineer** and **Information Security student*
 
 ---
 
+## 🐍 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oktamovsanjarorg/oktamovsanjarorg/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oktamovsanjarorg/oktamovsanjarorg/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/oktamovsanjarorg/oktamovsanjarorg/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oktamovsanjarorg&theme=tokyonight" alt="Profile Details" />
 </p>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oktamovsanjarorg&theme=tokyonight" alt="Overall Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oktamovsanjarorg&theme=tokyonight" alt="Most Commit Language" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=oktamovsanjarorg&theme=tokyonight" alt="Streak Stats" />
 </p>
 
