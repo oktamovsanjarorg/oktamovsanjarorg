@@ -48,7 +48,10 @@ I am a dedicated **Cloud & DevOps Engineer** and **Information Security student*
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oktamovsanjarorg&show_icons=true&theme=tokyonight&count_private=true" alt="Sanjar's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oktamovsanjarorg&theme=tokyonight" alt="Profile Details" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oktamovsanjarorg&theme=tokyonight" alt="Overall Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=oktamovsanjarorg&theme=tokyonight" alt="Streak Stats" />
 </p>
 
